@@ -1,0 +1,16 @@
+body {
+    background-color: #505050;
+    color: #fff;
+    font-family: 'Ubuntu Mono', monospace;
+    font-size: 18px;
+}
+
+a {
+    color: #fff;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+li {
+    padding-top: 10px;
+}
